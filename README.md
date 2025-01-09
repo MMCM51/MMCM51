@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MMCM51, 2nd year maths at Trinity, Cambridge
+- 👋 Hi, I’m @MMCM51, 3rd year maths at Trinity, Cambridge
 - 👀 I’m interested in AI, finance and algotrading
-- 🌱 I’m currently learning time-series analysis and statistics
+- 🌱 I’m currently learning time-series analysis, statistical methods, and AI
 - 💞️ I’m looking to collaborate on financial markets' prediction and analysis projects
 - 📫 How to reach me: 07508165171
 
